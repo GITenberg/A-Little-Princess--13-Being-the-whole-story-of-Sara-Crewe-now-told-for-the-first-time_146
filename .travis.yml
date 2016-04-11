@@ -50,7 +50,7 @@ deploy:
     - A-Little-Princess-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time.mobi
     - A-Little-Princess-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time.pdf
   "on":
-    repo: GITenberg/A-Little-Princess-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time_146
+    repo: GITenberg/A-Little-Princess--13-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time_146
 addons:
   apt:
     packages:
