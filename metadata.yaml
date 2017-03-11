@@ -1,5 +1,8 @@
 _repo: A-Little-Princess--13-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time_146
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -26,6 +29,8 @@ description: "A Little Princess is a children's novel by Frances Hodgson Burnett
   \ School Library Journal, a monthly with primarily U.S. audience. It was the second\
   \ of two Burnett novels among the Top 100, with The Secret Garden number 15.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/146#A-Little-Princess--13-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time
 gutenberg_bookshelf:
 - School Stories
 - Children's Literature
